@@ -29,3 +29,18 @@
 #     return arr4
 
 # print(getUniqArray(arr1, arr2))
+
+
+# 3. Given an array nums. We define a running sum of an array as 
+# runningSum[i] = sum(nums[0]…nums[i]).
+# Return the running sum of nums.
+
+# def runningSum(arr1):
+#     currentNum = 0
+#     arr2 = []
+#     for num in arr1:
+#         currentNum += num
+#         arr2.append(currentNum)
+#     return arr2
+
+# print(runningSum([1,2,3,4]))
