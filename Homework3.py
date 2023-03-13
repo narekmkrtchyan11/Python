@@ -121,7 +121,7 @@
 # print(os.path.exists('Homework3.py'))
 
 # 36. Write a Python function that takes a positive integer and returns the sum of the cube of all
-# positive integers smaller than the specified number. 
+# positive integers smaller than the specified number.
 
 
 # def getSum (num):
